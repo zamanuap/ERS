@@ -1,0 +1,17 @@
+:root {
+  --bg: #f0f1f3;
+  --dark: #333;
+  --btn-blue: #103e8d;
+  --accent: #23CE6B;
+  --text-white: #1c2a97;
+  --bkg-color:  #1c2a97;
+  --border: #384bd8;
+  --wheat-color: #f5deb3;
+  --fnt-color: #19267c;
+  --hover-color: #b5bffe;
+}
+
+body {
+  background-color: var(--bg);
+  color: #19267c;
+}

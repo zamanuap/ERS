@@ -1,0 +1,20 @@
+
+l
+java:S1192+"QDefine a constant instead of duplicating this literal "User must login." 3 times.(ÙÆ’ëøÿÿÿÿ
+f
+java:S1192"KDefine a constant instead of duplicating this literal "yyyy-mm-dd" 4 times.(±è“Ÿıÿÿÿÿ
+c
+java:S1192:"HDefine a constant instead of duplicating this literal "Manager" 3 times.(ÜıÚ¨úÿÿÿÿ
+]
+java:S1192"GDefine a constant instead of duplicating this literal "userId" 6 times.(™áû
+s
+java:S1104"XMake handleSubmit a static final constant or non-public and provide accessors if needed.(º•ºåşÿÿÿÿ
+„
+java:S1104&"iMake handleSingleUserReimbursement a static final constant or non-public and provide accessors if needed.(†­Ùşÿÿÿÿ
+†
+java:S11044"pMake handleManagerSingleUserReimbursement a static final constant or non-public and provide accessors if needed.(ï°…È
+}
+java:S1104B"gMake handleAllUsersReimbursement a static final constant or non-public and provide accessors if needed.(ƒå¸Ø
+u
+java:S1104P"_Make handleUpdateRequest a static final constant or non-public and provide accessors if needed.(Úíæô
+S	java:S106<"9Replace this use of System.out or System.err by a logger.(êÓæøùÿÿÿÿ

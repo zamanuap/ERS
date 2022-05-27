@@ -1,0 +1,15 @@
+.info-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.all-employees-heading-h3 {
+    margin-top: 40px;
+    text-align: center;
+}
+
+.table-display {
+    margin-top: 20px;
+}

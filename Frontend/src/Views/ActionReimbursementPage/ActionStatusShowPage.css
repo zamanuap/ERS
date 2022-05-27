@@ -1,0 +1,9 @@
+.action-status-btn {
+    border: 1px solid var(--border);
+    border-radius: 5px;
+}
+
+.action-status-btn:hover {
+    background-color: var(--hover-color);
+    
+}

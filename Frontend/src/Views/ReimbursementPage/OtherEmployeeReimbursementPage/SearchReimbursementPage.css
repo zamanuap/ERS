@@ -1,0 +1,36 @@
+.search-div {
+    width:30%;
+    margin: 40px auto;
+}
+
+.search-input {
+    width: 50%;
+    height: 35px;
+    padding: 5px;
+    background-color: var(--bkg-color);
+    color: var(--wheat-color);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+}
+
+.search-input:focus {
+    outline-width: 0;
+}
+
+.search-btn {
+    width: 30%;
+    height: 35px;
+    padding: 5px;
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.search-btn:hover {
+    cursor: pointer;
+    background-color: rgb(205, 208, 249);
+}
+
+.search-link {
+    text-decoration: none;
+}

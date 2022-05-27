@@ -1,0 +1,81 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-div {
+    display: flex;
+    width: 30%;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.reimburse-btn {
+    padding: 7px;
+    border: 1px solid var(--border);
+}
+
+.reimburse-btn:hover {
+    background-color: var(--hover-color);
+}
+
+.form-submit {
+    width: 30%;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid var(--border);
+    border-radius: 5px;
+}
+
+.h3-reimbusement {
+    text-align: center;
+    margin: 0;
+}
+
+.h4-reimburse-submit {
+    margin: 20px 0 10px 0;
+}
+
+.reimburse-input {
+    width: 100%;
+    height: 30px;
+    margin: auto;
+    color: var(--fnt-color);
+    border: 2px solid var(--border);
+    border-radius: 5px;
+}
+
+.reimburse-input:focus {
+    outline-width: 0;
+}
+
+.radio-container-div {
+    display: flex;
+    justify-content: flex-start;
+}
+
+.radio-label {
+    margin: 5px 42px 5px 5px;
+}
+
+.submit-input {
+    margin: 40px 0 10px 0;
+    width: 100%;
+    height: 35px;
+    border: 2px solid var(--border);
+    border-radius: 5px;
+    color: #19267c;
+    padding: auto;
+}
+
+.submit-input:hover {
+    background-color: var(--hover-color);
+    cursor: pointer;
+}
+
+.link{
+    text-decoration: none;
+    color: var(--fnt-color);
+}

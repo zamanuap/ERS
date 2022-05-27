@@ -1,0 +1,31 @@
+
+Ë
+java:S1192"¯Define a constant instead of duplicating this literal "where r.reimburse_status = rs.status_id and r.reimburse_type = rt.type_id and r.reimburse_author = u1.user_id " 3 times.(Ñ—ø•úÿÿÿÿ
+Ş
+java:S1192"ÂDefine a constant instead of duplicating this literal "select r.reimburse_id, r.amount, r.submitted_date, r.resolved_date, r.description, u1.user_name, u2.user_name, rs.status, rt.type" 3 times.(ĞÛÖûÿÿÿÿ
+ª
+java:S1192"“Define a constant instead of duplicating this literal " from users u1, users u2, reimbursement r, reimburse_status rs, reimburse_type rt " 3 times.(¥¬ÇÓ
+j
+java:S2095C"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ
+j
+java:S2095w"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ
+j
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ
+j
+java:S2095T"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ
+k
+java:S2095›"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(àø„˜úÿÿÿÿ
+T
+java:S3516>"9Refactor this method to not always return the same value.(éñ…„ùÿÿÿÿ
+A
+java:S11689"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168E"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168G"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168^"+Return an empty collection instead of null.(¥¹ï
+<	java:S131f""Add a default case to this switch.(Š¦ˆóøÿÿÿÿ
+=	java:S131‘""Add a default case to this switch.(²‹›Øüÿÿÿÿ

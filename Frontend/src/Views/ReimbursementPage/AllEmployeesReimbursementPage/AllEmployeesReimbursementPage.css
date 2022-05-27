@@ -1,0 +1,26 @@
+.reimburse-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .reimburse-btn {
+    border: 1px solid;
+    border-radius: 5px;
+    margin: 0 5px;
+  }
+  
+  .status-h3 {
+    margin-top: 30px;
+  }
+  
+  .reimburse-table {
+    margin-top: 20px;
+  }
+  
+  th,td {
+    text-align: left;
+    padding: 6px;
+    border: 1px solid #ccc;
+  }
